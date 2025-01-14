@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mikamora
-- 👀 I’m interested in all things JavaScript, Rock Climbing and playing drums.
+- 👀 I’m interested in all things Coding, Rock Climbing and Playing Drums.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on all things web dev.
 - 📫 How to reach me: mor7991@yahoo.com
